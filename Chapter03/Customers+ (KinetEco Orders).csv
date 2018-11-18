@@ -1,0 +1,275 @@
+﻿Address,TotalPrice,City,Cust First Name,Cust Full Name,Cust Last Name,CustNum (Orders),Cust Num,Date of Purchase,Number of Records,Order Num,Phone,Price,Product Category,Product Name,Quantity,SKU (Products),SKU,State,ZIP Code
+22 Superior Way,901.17,Boston,Graham,Graham Frederick,Frederick,77,77,01-01-2017,1,1,(707) 474-5854,901.17,Solar panels,K-Eco 625,1,KE625,KE625,Massachusetts,02203
+68316 Emmet Trail,49510,San Diego,Jael,Jael Rice,Rice,42,42,01-01-2017,1,2,(394) 444-6027,4951,Grid Tie Inverters,K-Invert 9K,10,KI9K,KI9K,California,92153
+99 Sage Street,4018,Reno,Nolan,Nolan Slater,Slater,5,5,05-01-2017,1,3,(540) 487-5928,2009,Grid Tie Inverters,K-Invert 7K,2,KI7K,KI7K,Nevada,89505
+561 Basil Court,6508,Greensboro,Blaine,Blaine Ashley,Ashley,49,49,15-01-2017,1,4,(261) 759-5806,813.5,Batteries,K-Eco 12-volt Lithium-ion solar backup battery,8,KE12Li,KE12Li,North Carolina,27404
+75 Erie Terrace,65549,Dayton,Medge,Medge Ratliff,Ratliff,7,7,17-01-2017,1,5,(358) 751-8227,5959,Grid Tie Inverters,K-Invert 13K,11,KI13K,KI13K,Ohio,45454
+556 Lakewood Park,332.35,Bismarck,Cally,Cally Reynolds,Reynolds,1,1,18-01-2017,1,6,(901) 166-8355,19.55,Solar panels,K-Eco Mini,17,KE5,KE5,North Dakota,58505
+602 Sommers Parkway,21.77,Norfolk,Brock,Brock Case,Case,94,94,19-01-2017,1,7,(544) 534-1984,3.11,Batteries,K-Eco  AAA NiMH rechargeable batteries (12-pack),7,KEAAA12,KEAAA12,Virginia,23520
+400 Summit Lane,14.7,Brooklyn,Theodore,Theodore Brock,Brock,95,95,20-01-2017,1,8,(662) 476-0315,1.47,Lightbulbs,K-Eco Energy Bulbs 9W,10,KE9W,KE9W,New York,11210
+9776 Beilfuss Parkway,1.75,Cleveland,Karly,Karly Hardin,Hardin,64,64,21-01-2017,1,9,(106) 281-7513,1.75,Lightbulbs,K-Eco Energy Bulbs 13W,1,KE13W,KE13W,Ohio,44118
+55617 Straubel Drive,15.18,Philadelphia,Eagan,Eagan Bray,Bray,97,97,21-01-2017,1,10,(529) 738-3373,1.38,Lightbulbs,K-Eco Energy Bulbs 23W,11,KE23W,KE23W,Pennsylvania,19146
+874 Leroy Hill,8261,Santa Rosa,Oleg,Oleg Merritt,Merritt,51,51,22-01-2017,1,11,(513) 912-4721,751,Batteries,K-Eco 36-volt Lithium-ion solar backup battery,11,KE36Li,KE36Li,California,95405
+605 Bunting Road,11.58,White Plains,Roth,Roth Black,Black,45,45,24-01-2017,1,12,(330) 983-4433,3.86,Batteries,K-Eco AA  NiMH rechargeable batteries (6-pack),3,KEAA06,KEAA06,New York,10606
+7189 Pankratz Point,36,Dayton,Jaime,Jaime Craig,Craig,66,66,04-02-2017,1,13,(375) 915-2089,3,Lightbulbs,K-Eco Energy Bulbs 13W  (8-pack),12,KE13W08,KE13W08,Ohio,45454
+33837 Independence Place,540.1,Oklahoma City,Jenna,Jenna Hendricks,Hendricks,84,84,06-02-2017,1,14,(840) 746-9696,108.02,Wind harvester,K-Eco Blast 100,5,KEBL100,KEBL100,Oklahoma,73124
+58 Melvin Pass,8.2,Huntsville,Josiah,Josiah Wagner,Wagner,62,62,06-02-2017,1,15,(700) 742-7671,4.1,Lightbulbs,K-Eco Energy Bulbs 9W (4-pack),2,KE9W04,KE9W04,Alabama,35815
+5 Melvin Street,118.88,New York City,Nasim,Nasim Sheppard,Sheppard,80,80,08-02-2017,1,16,(930) 295-6752,7.43,Lightbulbs,K-Eco Energy Bulbs 20W  (8-pack),16,KE20W08,KE20W08,New York,10039
+839 Pepper Wood Street,13.3,El Paso,Leslie,Leslie Pace,Pace,79,79,14-02-2017,1,17,(623) 686-1821,1.9,Lightbulbs,K-Eco Energy Bulbs 20W (4-pack),7,KE20W04,KE20W04,Texas,88563
+423 Kenwood Park,3696,Temple,Shay,Shay Davidson,Davidson,60,60,16-02-2017,1,18,(934) 777-4129,231,Wind harvester,K-Eco Blast 1200,16,KEBL1200,KEBL1200,Texas,76505
+229 Golden Leaf Road,1327.5,Gadsden,Jerry,Jerry Gill,Gill,27,27,18-02-2017,1,19,(491) 955-1047,88.5,Solar panels,K-Eco 250,15,KE250,KE250,Alabama,35905
+1 Springview Circle,28.26,Helena,Kenneth,Kenneth Potts,Potts,57,57,23-02-2017,1,20,(976) 544-1168,3.14,Lightbulbs,K-Eco Energy Bulbs 9W  (8-pack),9,KE9W08,KE9W08,Montana,59623
+25 Green Plaza,8939,Davenport,Quail,Quail Vance,Vance,39,39,24-02-2017,1,21,(229) 484-5107,638.5,Grid Tie Inverters,K-Invert 2K,14,KI2K,KI2K,Iowa,52804
+419 Tennyson Court,52.2,San Luis Obispo,Melyssa,Melyssa Gates,Gates,38,38,25-02-2017,1,22,(263) 976-2589,3.48,Solar panels,K-Eco phone charger,15,KE001,KE001,California,93407
+9 Roth Place,77.44,Dayton,Shafira,Shafira Bennett,Bennett,72,72,27-02-2017,1,23,(279) 911-0843,4.84,Lightbulbs,K-Eco Energy Bulbs 23W  (8-pack),16,KE23W08,KE23W08,Ohio,45454
+100 Bunting Drive,9.04,Washington,Quentin,Quentin Marshall,Marshall,100,100,06-03-2017,1,24,(203) 755-9348,2.26,Landscape lighting,K-Eco Solar Path designer stake lighting w/ rechargeable NiCd battery,4,KEPATH01,KEPATH01,District of Columbia,20557
+6755 Burrows Center,44.73,Columbus,Rose,Rose Holcomb,Holcomb,40,40,07-03-2017,1,25,(129) 823-5800,6.39,Landscape lighting,K-Eco Solar Path designer stake lighting w/ rechargeable NiCd battery (4-pack),7,KEPATH04,KEPATH04,Georgia,31914
+2 Nevada Junction,77.48,Pittsburgh,Zephr,Zephr Mcgee,Mcgee,44,44,11-03-2017,1,26,(708) 764-4578,5.96,Lightbulbs,K-Eco Energy Bulbs 23W (4-pack),13,KE23W04,KE23W04,Pennsylvania,15235
+2 Farragut Crossing,24968,Anchorage,Sade,Sade Santiago,Santiago,14,14,15-03-2017,1,27,(497) 492-4618,3121,Batteries,K-Eco 18-volt Lithium-ion solar backup battery,8,KE18Li,KE18Li,Alaska,99512
+4829 Badeau Parkway,25.56,Chattanooga,Sydney,Sydney Bartlett,Bartlett,2,2,16-03-2017,1,28,(982) 231-7357,6.39,Landscape lighting,K-Eco Solar Path designer stake lighting w/ rechargeable NiCd battery (4-pack),4,KEPATH04,KEPATH04,Tennessee,37405
+86432 Westridge Alley,47672,Wichita,Anastasia,Anastasia Owens,Owens,43,43,16-03-2017,1,29,(423) 401-3016,5959,Grid Tie Inverters,K-Invert 13K,8,KI13K,KI13K,Kansas,67230
+87 Brentwood Park,9840,Dallas,Brooke,Brooke Perkins,Perkins,4,4,16-03-2017,1,30,(340) 732-9367,820,Grid Tie Inverters,K-Invert 4K,12,KI4K,KI4K,Texas,75358
+95567 Browning Crossing,3.14,Vero Beach,Hadley,Hadley Sosa,Sosa,63,63,21-03-2017,1,31,(222) 150-9436,3.14,Lightbulbs,K-Eco Energy Bulbs 9W  (8-pack),1,KE9W08,KE9W08,Florida,32964
+5204 Beilfuss Place,83.44,Columbus,Shellie,Shellie Velez,Velez,22,22,28-03-2017,1,32,(197) 282-8671,5.96,Lightbulbs,K-Eco Energy Bulbs 23W (4-pack),14,KE23W04,KE23W04,Ohio,43204
+7468 Talmadge Junction,6.22,Baltimore,Laith,Laith Jordan,Jordan,48,48,29-03-2017,1,33,(868) 659-6715,3.11,Batteries,K-Eco  AAA NiMH rechargeable batteries (12-pack),2,KEAAA12,KEAAA12,Maryland,21275
+7271 Ramsey Way,292.82,Washington,Gray,Gray Gutierrez,Gutierrez,87,87,29-03-2017,1,34,(496) 849-2265,26.62,Landscape lighting,K-Eco Solar Path designer stake lighting w/ rechargeable NiCd battery (12-pack),11,KEPATH12,KEPATH12,District of Columbia,20420
+710 Old Gate Circle,1548.36,Chicago,Amery,Amery Washington,Washington,34,34,01-04-2017,1,35,(191) 476-0002,140.76,Solar panels,K-Eco 575,11,KE575,KE575,Illinois,60641
+8 Delaware Hill,53.64,Garden Grove,Nicole,Nicole Mcconnell,Mcconnell,98,98,01-04-2017,1,36,(892) 616-0264,5.96,Lightbulbs,K-Eco Energy Bulbs 23W (4-pack),9,KE23W04,KE23W04,California,92844
+87 Brentwood Park,54.04,Dallas,Brooke,Brooke Perkins,Perkins,4,4,02-04-2017,1,37,(340) 732-9367,3.86,Batteries,K-Eco AA  NiMH rechargeable batteries (6-pack),14,KEAA06,KEAA06,Texas,75358
+99 Hanson Way,29.8,Richmond,Kaden,Kaden Sharpe,Sharpe,71,71,05-04-2017,1,38,(246) 987-2818,5.96,Lightbulbs,K-Eco Energy Bulbs 23W (4-pack),5,KE23W04,KE23W04,Virginia,23242
+68316 Emmet Trail,689.36,San Diego,Jael,Jael Rice,Rice,42,42,08-04-2017,1,39,(394) 444-6027,86.17,Solar panels,K-Eco 180,8,KE180,KE180,California,92153
+7746 Mitchell Point,40.43,New Haven,Merrill,Merrill Freeman,Freeman,12,12,09-04-2017,1,40,(838) 734-1768,3.11,Batteries,K-Eco  AAA NiMH rechargeable batteries (12-pack),13,KEAAA12,KEAAA12,Connecticut,06510
+22577 Starling Lane,211.44,Chicago,Adena,Adena Jenkins,Jenkins,55,55,13-04-2017,1,41,(342) 731-9079,70.48,Wind harvester,K-Eco Blast 200,3,KEBL200,KEBL200,Illinois,60604
+4276 Hallows Terrace,95.36,San Antonio,Mollie,Mollie Meyers,Meyers,50,50,16-04-2017,1,42,(309) 329-9140,5.96,Lightbulbs,K-Eco Energy Bulbs 23W (4-pack),16,KE23W04,KE23W04,Texas,78260
+1876 Petterle Court,109.8,Brea,Hedy,Hedy Vang,Vang,86,86,17-04-2017,1,43,(383) 134-3234,6.1,Landscape lighting,K-Eco Solar Path designer stake lighting w/ rechargeable NiCd battery (8-pack),18,KEPATH08,KEPATH08,California,92822
+22278 Waubesa Road,11.3,Birmingham,Chastity,Chastity Charles,Charles,78,78,18-04-2017,1,44,(186) 176-2590,2.26,Landscape lighting,K-Eco Solar Path designer stake lighting w/ rechargeable NiCd battery,5,KEPATH01,KEPATH01,Alabama,35225
+718 Lakewood Parkway,43.56,Appleton,Kamal,Kamal Newton,Newton,99,99,19-04-2017,1,45,(704) 685-9968,4.84,Lightbulbs,K-Eco Energy Bulbs 23W  (8-pack),9,KE23W08,KE23W08,Wisconsin,54915
+9843 Graceland Point,2533.68,Lansing,Dorian,Dorian Dale,Dale,21,21,23-04-2017,1,46,(311) 929-6026,140.76,Solar panels,K-Eco 575,18,KE575,KE575,Michigan,48930
+33837 Independence Place,27.12,Oklahoma City,Jenna,Jenna Hendricks,Hendricks,84,84,30-04-2017,1,47,(840) 746-9696,2.26,Landscape lighting,K-Eco Solar Path designer stake lighting w/ rechargeable NiCd battery,12,KEPATH01,KEPATH01,Oklahoma,73124
+40 Lighthouse Bay Circle,300,Saint Petersburg,Benjamin,Benjamin Miranda,Miranda,17,17,01-05-2017,1,48,(992) 329-4925,30,Wind harvester,K-Eco Breeze Mini,10,KEBR5,KEBR5,Florida,33731
+58034 Nelson Street,488.25,Washington,Philip,Philip Ware,Ware,29,29,06-05-2017,1,49,(615) 720-3672,69.75,Solar panels,K-Eco 275,7,KE275,KE275,District of Columbia,20036
+8 Gerald Point,40440,Orlando,Malik,Malik Faulkner,Faulkner,16,16,14-05-2017,1,50,(186) 520-2519,4044,Batteries,K-Eco 48-volt Lithium-ion solar backup battery,10,KE48Li,KE48Li,Florida,32858
+30 Onsgard Crossing,14.86,Los Angeles,Serena,Serena Malone,Malone,96,96,15-05-2017,1,51,(137) 440-1643,7.43,Lightbulbs,K-Eco Energy Bulbs 20W  (8-pack),2,KE20W08,KE20W08,California,90040
+4276 Hallows Terrace,3121,San Antonio,Mollie,Mollie Meyers,Meyers,50,50,16-05-2017,1,52,(309) 329-9140,3121,Batteries,K-Eco 18-volt Lithium-ion solar backup battery,1,KE18Li,KE18Li,Texas,78260
+556 Lakewood Park,42,Bismarck,Cally,Cally Reynolds,Reynolds,1,1,16-05-2017,1,53,(901) 166-8355,3,Lightbulbs,K-Eco Energy Bulbs 13W  (8-pack),14,KE13W08,KE13W08,North Dakota,58505
+30 Gulseth Junction,34.54,San Francisco,Ayanna,Ayanna Foreman,Foreman,41,41,17-05-2017,1,54,(146) 146-9356,3.14,Lightbulbs,K-Eco Energy Bulbs 9W  (8-pack),11,KE9W08,KE9W08,California,94154
+609 Everett Avenue,5888.3,Des Moines,Francesca,Francesca Hodges,Hodges,32,32,19-05-2017,1,55,(324) 686-7614,535.3,Solar panels,"K-Eco 325x (same power, smaller footprint)",11,KE325X,KE325X,Iowa,50330
+423 Kenwood Park,61,Temple,Shay,Shay Davidson,Davidson,60,60,24-05-2017,1,56,(934) 777-4129,6.1,Landscape lighting,K-Eco Solar Path designer stake lighting w/ rechargeable NiCd battery (8-pack),10,KEPATH08,KEPATH08,Texas,76505
+4829 Badeau Parkway,59.16,Chattanooga,Sydney,Sydney Bartlett,Bartlett,2,2,25-05-2017,1,57,(982) 231-7357,3.48,Solar panels,K-Eco phone charger,17,KE001,KE001,Tennessee,37405
+86073 Sloan Way,1963.52,Pueblo,Sasha,Sasha King,King,56,56,30-05-2017,1,58,(733) 104-5058,245.44,Wind harvester,K-Eco Blast 400,8,KEBL400,KEBL400,Colorado,81015
+52 Sachtjen Avenue,31.8,Tampa,Calvin,Calvin Henry,Henry,46,46,06-06-2017,1,59,(327) 821-0113,2.65,Batteries,K-Eco  AAA NiMH rechargeable batteries  (6-pack),12,KEAAA06,KEAAA06,Florida,33661
+32174 Ridge Oak Plaza,43.56,San Francisco,Mona,Mona Matthews,Matthews,83,83,07-06-2017,1,60,(723) 808-1834,4.84,Lightbulbs,K-Eco Energy Bulbs 23W  (8-pack),9,KE23W08,KE23W08,California,94177
+39464 Debra Lane,13.23,Young America,Nash,Nash Vasquez,Vasquez,8,8,08-06-2017,1,61,(989) 937-6199,1.47,Lightbulbs,K-Eco Energy Bulbs 9W,9,KE9W,KE9W,Minnesota,55557
+2 Namekagon Trail,10514,Trenton,Judith,Judith Leonard,Leonard,15,15,10-06-2017,1,62,(549) 439-1744,751,Batteries,K-Eco 36-volt Lithium-ion solar backup battery,14,KE36Li,KE36Li,New Jersey,08619
+0864 Bluestem Center,4505.85,Sacramento,Barrett,Barrett Howell,Howell,35,35,10-06-2017,1,63,(538) 115-5665,901.17,Solar panels,K-Eco 625,5,KE625,KE625,California,95823
+96 Eliot Way,23.84,Fresno,Brody,Brody Love,Love,82,82,17-06-2017,1,64,(360) 338-4848,5.96,Lightbulbs,K-Eco Energy Bulbs 23W (4-pack),4,KE23W04,KE23W04,California,93715
+282 Acker Terrace,216.04,Winston Salem,Cailin,Cailin Alford,Alford,88,88,19-06-2017,1,65,(368) 400-8301,108.02,Wind harvester,K-Eco Blast 100,2,KEBL100,KEBL100,North Carolina,27157
+4829 Badeau Parkway,1009.56,Chattanooga,Sydney,Sydney Bartlett,Bartlett,2,2,25-06-2017,1,66,(982) 231-7357,84.13,Solar panels,K-Eco 450,12,KE450,KE450,Tennessee,37405
+1876 Petterle Court,118.08,Brea,Hedy,Hedy Vang,Vang,86,86,28-06-2017,1,67,(383) 134-3234,6.56,Batteries,K-Eco AA  NiMH rechargeable batteries (12-pack),18,KEAA12,KEAA12,California,92822
+839 Pepper Wood Street,52.01,El Paso,Leslie,Leslie Pace,Pace,79,79,01-07-2017,1,68,(623) 686-1821,7.43,Lightbulbs,K-Eco Energy Bulbs 20W  (8-pack),7,KE20W08,KE20W08,Texas,88563
+88 Burning Wood Junction,782.04,Anaheim,Adara,Adara Langley,Langley,26,26,02-07-2017,1,69,(696) 810-8990,65.17,Solar panels,K-Eco 225,12,KE225,KE225,California,92812
+7316 Dryden Road,18.55,Memphis,Coby,Coby Lucas,Lucas,11,11,09-07-2017,1,70,(177) 816-3420,2.65,Batteries,K-Eco  AAA NiMH rechargeable batteries  (6-pack),7,KEAAA06,KEAAA06,Tennessee,38114
+39464 Debra Lane,102668,Young America,Nash,Nash Vasquez,Vasquez,8,8,11-07-2017,1,71,(989) 937-6199,25667,Grid Tie Inverters,K-Invert 20K,4,KI20K,KI20K,Minnesota,55557
+3409 Oriole Point,504.63,Peoria,Iliana,Iliana Hester,Hester,31,31,13-07-2017,1,72,(716) 866-7734,72.09,Solar panels,K-Eco 325,7,KE325,KE325,Illinois,61629
+6502 Montana Junction,1056,New Orleans,Arden,Arden Bennett,Bennett,28,28,17-07-2017,1,73,(959) 194-1875,66,Solar panels,"K-Eco 250x (same power, smaller footprint)",16,KE250X,KE250X,Louisiana,70174
+5 Melvin Street,29.15,New York City,Nasim,Nasim Sheppard,Sheppard,80,80,18-07-2017,1,74,(930) 295-6752,2.65,Batteries,K-Eco  AAA NiMH rechargeable batteries  (6-pack),11,KEAAA06,KEAAA06,New York,10039
+89318 Heffernan Crossing,117.3,Santa Barbara,Wynter,Wynter Roberts,Roberts,37,37,24-07-2017,1,75,(721) 262-6519,19.55,Solar panels,K-Eco Mini,6,KE5,KE5,California,93150
+2 Nevada Junction,154002,Pittsburgh,Zephr,Zephr Mcgee,Mcgee,44,44,24-07-2017,1,76,(708) 764-4578,25667,Grid Tie Inverters,K-Invert 20K,6,KI20K,KI20K,Pennsylvania,15235
+22 Superior Way,3,Boston,Graham,Graham Frederick,Frederick,77,77,25-07-2017,1,77,(707) 474-5854,3,Lightbulbs,K-Eco Energy Bulbs 13W  (8-pack),1,KE13W08,KE13W08,Massachusetts,02203
+5733 Walton Center,864.16,Jamaica,Astra,Astra Edwards,Edwards,54,54,26-07-2017,1,78,(177) 600-1729,108.02,Wind harvester,K-Eco Blast 100,8,KEBL100,KEBL100,New York,11470
+52 Sachtjen Avenue,30.88,Tampa,Calvin,Calvin Henry,Henry,46,46,27-07-2017,1,79,(327) 821-0113,3.86,Batteries,K-Eco AA  NiMH rechargeable batteries (6-pack),8,KEAA06,KEAA06,Florida,33661
+22278 Waubesa Road,7494.2,Birmingham,Chastity,Chastity Charles,Charles,78,78,29-07-2017,1,80,(186) 176-2590,535.3,Solar panels,"K-Eco 325x (same power, smaller footprint)",14,KE325X,KE325X,Alabama,35225
+6 Carioca Crossing,245.44,Arvada,Derek,Derek Conrad,Conrad,90,90,03-08-2017,1,81,(275) 477-2907,245.44,Wind harvester,K-Eco Blast 400,1,KEBL400,KEBL400,Colorado,80005
+62597 Lighthouse Bay Drive,70.29,Port Charlotte,Eric,Eric Donaldson,Donaldson,74,74,03-08-2017,1,82,(714) 520-4254,6.39,Landscape lighting,K-Eco Solar Path designer stake lighting w/ rechargeable NiCd battery (4-pack),11,KEPATH04,KEPATH04,Florida,33954
+795 Troy Terrace,22.29,Atlanta,Kyle,Kyle Keith,Keith,69,69,08-08-2017,1,83,(578) 125-5684,7.43,Lightbulbs,K-Eco Energy Bulbs 20W  (8-pack),3,KE20W08,KE20W08,Georgia,31106
+6 Jana Park,14853,San Antonio,Germaine,Germaine Green,Green,6,6,12-08-2017,1,84,(466) 455-4160,4951,Grid Tie Inverters,K-Invert 9K,3,KI9K,KI9K,Texas,78240
+289 Porter Crossing,1504,Silver Spring,Lunea,Lunea Rios,Rios,36,36,23-08-2017,1,85,(311) 982-5690,376,Solar panels,K-Eco 700,4,KE700,KE700,Maryland,20918
+2 Nevada Junction,40440,Pittsburgh,Zephr,Zephr Mcgee,Mcgee,44,44,25-08-2017,1,86,(708) 764-4578,4044,Batteries,K-Eco 48-volt Lithium-ion solar backup battery,10,KE48Li,KE48Li,Pennsylvania,15235
+3627 Pine View Circle,4329,Cleveland,Debra,Debra Finley,Finley,59,59,25-08-2017,1,87,(542) 954-1230,481,Wind harvester,K-Eco Blast 800,9,KEBL800,KEBL800,Ohio,44118
+8231 Crowley Crossing,19.3,Cincinnati,Michael,Michael Rutledge,Rutledge,9,9,26-08-2017,1,88,(366) 822-4574,3.86,Batteries,K-Eco AA  NiMH rechargeable batteries (6-pack),5,KEAA06,KEAA06,Ohio,45999
+100 Bunting Drive,33.88,Washington,Quentin,Quentin Marshall,Marshall,100,100,30-08-2017,1,89,(203) 755-9348,4.84,Lightbulbs,K-Eco Energy Bulbs 23W  (8-pack),7,KE23W08,KE23W08,District of Columbia,20557
+4 Manufacturers Pass,7.35,Greensboro,Kyla,Kyla Hebert,Hebert,61,61,30-08-2017,1,90,(715) 654-8147,1.47,Lightbulbs,K-Eco Energy Bulbs 9W,5,KE9W,KE9W,North Carolina,27499
+3627 Pine View Circle,71.52,Cleveland,Debra,Debra Finley,Finley,59,59,31-08-2017,1,91,(542) 954-1230,5.96,Lightbulbs,K-Eco Energy Bulbs 23W (4-pack),12,KE23W04,KE23W04,Ohio,44118
+791 Cherokee Court,11.62,Merrifield,Molly,Molly Grant,Grant,65,65,02-09-2017,1,92,(689) 843-0460,1.66,Lightbulbs,K-Eco Energy Bulbs 13W (4-pack),7,KE13W04,KE13W04,Virginia,22119
+7 Cottonwood Plaza,1180.44,Pensacola,Roanna,Roanna Acevedo,Acevedo,58,58,06-09-2017,1,93,(868) 464-7466,131.16,Wind harvester,K-Eco Blast 600,9,KEBL600,KEBL600,Florida,32505
+6 Granby Drive,885,Topeka,Clementine,Clementine Oliver,Oliver,30,30,07-09-2017,1,94,(603) 332-7827,88.5,Solar panels,K-Eco 300,10,KE300,KE300,Kansas,66606
+55617 Straubel Drive,29.72,Philadelphia,Eagan,Eagan Bray,Bray,97,97,08-09-2017,1,95,(529) 738-3373,7.43,Lightbulbs,K-Eco Energy Bulbs 20W  (8-pack),4,KE20W08,KE20W08,Pennsylvania,19146
+181 Packers Way,14643,Boston,Rae,Rae Hawkins,Hawkins,13,13,13-09-2017,1,96,(484) 158-4493,813.5,Batteries,K-Eco 12-volt Lithium-ion solar backup battery,18,KE12Li,KE12Li,Massachusetts,02216
+318 Park Meadow Hill,27.84,San Antonio,Melinda,Melinda Price,Price,91,91,16-09-2017,1,97,(748) 701-8010,3.48,Solar panels,K-Eco phone charger,8,KE001,KE001,Texas,78285
+3849 Northport Parkway,1924,Appleton,Ronan,Ronan Mendez,Mendez,93,93,17-09-2017,1,98,(302) 847-0643,481,Wind harvester,K-Eco Blast 800,4,KEBL800,KEBL800,Wisconsin,54915
+5204 Beilfuss Place,2703.51,Columbus,Shellie,Shellie Velez,Velez,22,22,28-09-2017,1,99,(197) 282-8671,901.17,Solar panels,K-Eco 625,3,KE625,KE625,Ohio,43204
+400 Summit Lane,136.85,Brooklyn,Theodore,Theodore Brock,Brock,95,95,28-09-2017,1,100,(662) 476-0315,19.55,Solar panels,K-Eco Mini,7,KE5,KE5,New York,11210
+78 Summer Ridge Alley,1261.95,Duluth,Lucas,Lucas Trevino,Trevino,20,20,29-09-2017,1,101,(176) 773-9482,84.13,Solar panels,K-Eco 450,15,KE450,KE450,Minnesota,55805
+92 Northfield Terrace,775.53,Louisville,Rhonda,Rhonda Wilder,Wilder,23,23,01-10-2017,1,102,(653) 854-3876,86.17,Solar panels,K-Eco 180,9,KE180,KE180,Kentucky,40287
+30 Gulseth Junction,26117,San Francisco,Ayanna,Ayanna Foreman,Foreman,41,41,03-10-2017,1,103,(146) 146-9356,2009,Grid Tie Inverters,K-Invert 7K,13,KI7K,KI7K,California,94154
+68316 Emmet Trail,20.7,San Diego,Jael,Jael Rice,Rice,42,42,04-10-2017,1,104,(394) 444-6027,1.38,Lightbulbs,K-Eco Energy Bulbs 23W,15,KE23W,KE23W,California,92153
+602 Sommers Parkway,1848,Norfolk,Brock,Brock Case,Case,94,94,05-10-2017,1,105,(544) 534-1984,231,Wind harvester,K-Eco Blast 1200,8,KEBL1200,KEBL1200,Virginia,23520
+102 Fallview Terrace,9.66,Minneapolis,Chester,Chester Best,Best,70,70,08-10-2017,1,106,(608) 587-5791,1.38,Lightbulbs,K-Eco Energy Bulbs 23W,7,KE23W,KE23W,Minnesota,55441
+92483 Doe Crossing Drive,111.52,Lansing,Guy,Guy Ochoa,Ochoa,10,10,10-10-2017,1,107,(720) 242-4596,6.56,Batteries,K-Eco AA  NiMH rechargeable batteries (12-pack),17,KEAA12,KEAA12,Michigan,48956
+207 Bunting Street,22.8,Sioux City,Dustin,Dustin Daugherty,Daugherty,68,68,12-10-2017,1,108,(951) 720-1227,1.9,Lightbulbs,K-Eco Energy Bulbs 20W (4-pack),12,KE20W04,KE20W04,Iowa,51105
+2 Hovde Plaza,79.3,Saint Paul,Indira,Indira Odom,Odom,75,75,12-10-2017,1,109,(714) 947-5101,6.1,Landscape lighting,K-Eco Solar Path designer stake lighting w/ rechargeable NiCd battery (8-pack),13,KEPATH08,KEPATH08,Minnesota,55108
+992 Haas Avenue,1620.3,San Diego,Rhona,Rhona Stanley,Stanley,18,18,13-10-2017,1,110,(237) 294-5071,108.02,Wind harvester,K-Eco Blast 100,15,KEBL100,KEBL100,California,92186
+6625 Lukken Circle,916.24,Brooklyn,Amena,Amena Petersen,Petersen,19,19,17-10-2017,1,111,(383) 554-7219,70.48,Wind harvester,K-Eco Blast 200,13,KEBL200,KEBL200,New York,11205
+1 Springview Circle,2454.4,Helena,Kenneth,Kenneth Potts,Potts,57,57,18-10-2017,1,112,(976) 544-1168,245.44,Wind harvester,K-Eco Blast 400,10,KEBL400,KEBL400,Montana,59623
+3149 Kinsman Court,4.14,Winston Salem,Yoko,Yoko Travis,Travis,81,81,18-10-2017,1,113,(818) 864-3843,1.38,Lightbulbs,K-Eco Energy Bulbs 23W,3,KE23W,KE23W,North Carolina,27116
+2 Rockefeller Avenue,5108,Waco,Hunter,Hunter Newton,Newton,3,3,18-10-2017,1,114,(831) 996-1240,638.5,Grid Tie Inverters,K-Invert 2K,8,KI2K,KI2K,Texas,76796
+6755 Burrows Center,5740,Columbus,Rose,Rose Holcomb,Holcomb,40,40,18-10-2017,1,115,(129) 823-5800,820,Grid Tie Inverters,K-Invert 4K,7,KI4K,KI4K,Georgia,31914
+318 Park Meadow Hill,981.76,San Antonio,Melinda,Melinda Price,Price,91,91,19-10-2017,1,116,(748) 701-8010,245.44,Wind harvester,K-Eco Blast 400,4,KEBL400,KEBL400,Texas,78285
+4276 Hallows Terrace,13.23,San Antonio,Mollie,Mollie Meyers,Meyers,50,50,19-10-2017,1,117,(309) 329-9140,1.47,Lightbulbs,K-Eco Energy Bulbs 9W,9,KE9W,KE9W,Texas,78260
+22278 Waubesa Road,41.76,Birmingham,Chastity,Chastity Charles,Charles,78,78,21-10-2017,1,118,(186) 176-2590,3.48,Solar panels,K-Eco phone charger,12,KE001,KE001,Alabama,35225
+52509 Almo Lane,399.3,Raleigh,Savannah,Savannah Conner,Conner,76,76,21-10-2017,1,119,(361) 128-7285,26.62,Landscape lighting,K-Eco Solar Path designer stake lighting w/ rechargeable NiCd battery (12-pack),15,KEPATH12,KEPATH12,North Carolina,27658
+91955 Mosinee Parkway,1206.38,Indianapolis,Tyrone,Tyrone Powell,Powell,24,24,24-10-2017,1,120,(113) 724-9255,86.17,Solar panels,K-Eco 180,14,KE180,KE180,Indiana,46278
+22278 Waubesa Road,22.78,Birmingham,Chastity,Chastity Charles,Charles,78,78,28-10-2017,1,121,(186) 176-2590,1.34,Lightbulbs,K-Eco Energy Bulbs 20W,17,KE20W,KE20W,Alabama,35225
+62 Karstens Junction,18.55,Tulsa,Joshua,Joshua Delaney,Delaney,47,47,02-11-2017,1,122,(838) 282-2276,2.65,Batteries,K-Eco  AAA NiMH rechargeable batteries  (6-pack),7,KEAAA06,KEAAA06,Oklahoma,74141
+62 Warner Place,3444,Washington,Raja,Raja Wells,Wells,25,25,09-11-2017,1,123,(244) 178-1821,246,Solar panels,K-Eco 200,14,KE200,KE200,District of Columbia,20525
+7316 Dryden Road,1512.28,Memphis,Coby,Coby Lucas,Lucas,11,11,11-11-2017,1,124,(177) 816-3420,108.02,Wind harvester,K-Eco Blast 100,14,KEBL100,KEBL100,Tennessee,38114
+181 Packers Way,1968,Boston,Rae,Rae Hawkins,Hawkins,13,13,12-11-2017,1,125,(484) 158-4493,246,Solar panels,K-Eco 200,8,KE200,KE200,Massachusetts,02216
+99 Sage Street,480,Reno,Nolan,Nolan Slater,Slater,5,5,13-11-2017,1,126,(540) 487-5928,30,Wind harvester,K-Eco Breeze Mini,16,KEBR5,KEBR5,Nevada,89505
+823 Glacier Hill Point,31.64,San Bernardino,Zena,Zena Washington,Washington,73,73,17-11-2017,1,127,(921) 805-5150,2.26,Landscape lighting,K-Eco Solar Path designer stake lighting w/ rechargeable NiCd battery,14,KEPATH01,KEPATH01,California,92415
+52 Sachtjen Avenue,65.6,Tampa,Calvin,Calvin Henry,Henry,46,46,19-11-2017,1,128,(327) 821-0113,6.56,Batteries,K-Eco AA  NiMH rechargeable batteries (12-pack),10,KEAA12,KEAA12,Florida,33661
+8117 Straubel Plaza,2229.72,Jamaica,Rebekah,Rebekah Nelson,Nelson,92,92,26-11-2017,1,129,(447) 121-6473,131.16,Wind harvester,K-Eco Blast 600,17,KEBL600,KEBL600,New York,11480
+6 Granby Drive,74.3,Topeka,Clementine,Clementine Oliver,Oliver,30,30,29-11-2017,1,130,(603) 332-7827,7.43,Lightbulbs,K-Eco Energy Bulbs 20W  (8-pack),10,KE20W08,KE20W08,Kansas,66606
+791 Cherokee Court,292.82,Merrifield,Molly,Molly Grant,Grant,65,65,04-12-2017,1,131,(689) 843-0460,26.62,Landscape lighting,K-Eco Solar Path designer stake lighting w/ rechargeable NiCd battery (12-pack),11,KEPATH12,KEPATH12,Virginia,22119
+602 Sommers Parkway,18.55,Norfolk,Brock,Brock Case,Case,94,94,11-12-2017,1,132,(544) 534-1984,2.65,Batteries,K-Eco  AAA NiMH rechargeable batteries  (6-pack),7,KEAAA06,KEAAA06,Virginia,23520
+62 Karstens Junction,34.74,Tulsa,Joshua,Joshua Delaney,Delaney,47,47,11-12-2017,1,133,(838) 282-2276,3.86,Batteries,K-Eco AA  NiMH rechargeable batteries (6-pack),9,KEAA06,KEAA06,Oklahoma,74141
+52 Sachtjen Avenue,60,Tampa,Calvin,Calvin Henry,Henry,46,46,11-12-2017,1,134,(327) 821-0113,30,Wind harvester,K-Eco Breeze Mini,2,KEBR5,KEBR5,Florida,33661
+40 Lighthouse Bay Circle,4182,Saint Petersburg,Benjamin,Benjamin Miranda,Miranda,17,17,16-12-2017,1,135,(992) 329-4925,246,Solar panels,K-Eco 200,17,KE200,KE200,Florida,33731
+24812 Cordelia Trail,17.42,Corpus Christi,Wesley,Wesley Rush,Rush,67,67,19-12-2017,1,136,(722) 576-0563,1.34,Lightbulbs,K-Eco Energy Bulbs 20W,13,KE20W,KE20W,Texas,78475
+907 Briar Crest Terrace,845.76,Santa Barbara,Erasmus,Erasmus Neal,Neal,89,89,25-12-2017,1,137,(774) 548-5638,70.48,Wind harvester,K-Eco Blast 200,12,KEBL200,KEBL200,California,93150
+78 Summer Ridge Alley,59.44,Duluth,Lucas,Lucas Trevino,Trevino,20,20,02-01-2018,1,138,(176) 773-9482,7.43,Lightbulbs,K-Eco Energy Bulbs 20W  (8-pack),8,KE20W08,KE20W08,Minnesota,55805
+823 Glacier Hill Point,42.7,San Bernardino,Zena,Zena Washington,Washington,73,73,05-01-2018,1,139,(921) 805-5150,6.1,Landscape lighting,K-Eco Solar Path designer stake lighting w/ rechargeable NiCd battery (8-pack),7,KEPATH08,KEPATH08,California,92415
+96 Eliot Way,50.24,Fresno,Brody,Brody Love,Love,82,82,11-01-2018,1,140,(360) 338-4848,3.14,Lightbulbs,K-Eco Energy Bulbs 9W  (8-pack),16,KE9W08,KE9W08,California,93715
+62597 Lighthouse Bay Drive,40.43,Port Charlotte,Eric,Eric Donaldson,Donaldson,74,74,12-01-2018,1,141,(714) 520-4254,3.11,Batteries,K-Eco  AAA NiMH rechargeable batteries (12-pack),13,KEAAA12,KEAAA12,Florida,33954
+791 Cherokee Court,102668,Merrifield,Molly,Molly Grant,Grant,65,65,15-01-2018,1,142,(689) 843-0460,25667,Grid Tie Inverters,K-Invert 20K,4,KI20K,KI20K,Virginia,22119
+7746 Mitchell Point,83.44,New Haven,Merrill,Merrill Freeman,Freeman,12,12,16-01-2018,1,143,(838) 734-1768,5.96,Lightbulbs,K-Eco Energy Bulbs 23W (4-pack),14,KE23W04,KE23W04,Connecticut,06510
+25 Green Plaza,24.99,Davenport,Quail,Quail Vance,Vance,39,39,19-01-2018,1,144,(229) 484-5107,1.47,Lightbulbs,K-Eco Energy Bulbs 9W,17,KE9W,KE9W,Iowa,52804
+9843 Graceland Point,3444,Lansing,Dorian,Dorian Dale,Dale,21,21,26-01-2018,1,145,(311) 929-6026,246,Solar panels,K-Eco 200,14,KE200,KE200,Michigan,48930
+30 Onsgard Crossing,36396,Los Angeles,Serena,Serena Malone,Malone,96,96,26-01-2018,1,146,(137) 440-1643,4044,Batteries,K-Eco 48-volt Lithium-ion solar backup battery,9,KE48Li,KE48Li,California,90040
+91955 Mosinee Parkway,89.46,Indianapolis,Tyrone,Tyrone Powell,Powell,24,24,26-01-2018,1,147,(113) 724-9255,6.39,Landscape lighting,K-Eco Solar Path designer stake lighting w/ rechargeable NiCd battery (4-pack),14,KEPATH04,KEPATH04,Indiana,46278
+6502 Montana Junction,82.28,New Orleans,Arden,Arden Bennett,Bennett,28,28,08-02-2018,1,148,(959) 194-1875,4.84,Lightbulbs,K-Eco Energy Bulbs 23W  (8-pack),17,KE23W08,KE23W08,Louisiana,70174
+289 Porter Crossing,13.23,Silver Spring,Lunea,Lunea Rios,Rios,36,36,09-02-2018,1,149,(311) 982-5690,1.47,Lightbulbs,K-Eco Energy Bulbs 9W,9,KE9W,KE9W,Maryland,20918
+62 Warner Place,91.5,Washington,Raja,Raja Wells,Wells,25,25,10-02-2018,1,150,(244) 178-1821,6.1,Landscape lighting,K-Eco Solar Path designer stake lighting w/ rechargeable NiCd battery (8-pack),15,KEPATH08,KEPATH08,District of Columbia,20525
+62 Karstens Junction,4505.85,Tulsa,Joshua,Joshua Delaney,Delaney,47,47,12-02-2018,1,151,(838) 282-2276,901.17,Solar panels,K-Eco 625,5,KE625,KE625,Oklahoma,74141
+24812 Cordelia Trail,108.02,Corpus Christi,Wesley,Wesley Rush,Rush,67,67,14-02-2018,1,152,(722) 576-0563,108.02,Wind harvester,K-Eco Blast 100,1,KEBL100,KEBL100,Texas,78475
+7316 Dryden Road,912.38,Memphis,Coby,Coby Lucas,Lucas,11,11,22-02-2018,1,153,(177) 816-3420,65.17,Solar panels,K-Eco 225,14,KE225,KE225,Tennessee,38114
+423 Kenwood Park,20.7,Temple,Shay,Shay Davidson,Davidson,60,60,22-02-2018,1,154,(934) 777-4129,1.38,Lightbulbs,K-Eco Energy Bulbs 23W,15,KE23W,KE23W,Texas,76505
+823 Glacier Hill Point,24.86,San Bernardino,Zena,Zena Washington,Washington,73,73,22-02-2018,1,155,(921) 805-5150,2.26,Landscape lighting,K-Eco Solar Path designer stake lighting w/ rechargeable NiCd battery,11,KEPATH01,KEPATH01,California,92415
+3849 Northport Parkway,916.24,Appleton,Ronan,Ronan Mendez,Mendez,93,93,23-02-2018,1,156,(302) 847-0643,70.48,Wind harvester,K-Eco Blast 200,13,KEBL200,KEBL200,Wisconsin,54915
+62 Karstens Junction,24.6,Tulsa,Joshua,Joshua Delaney,Delaney,47,47,23-02-2018,1,157,(838) 282-2276,4.1,Lightbulbs,K-Eco Energy Bulbs 9W (4-pack),6,KE9W04,KE9W04,Oklahoma,74141
+791 Cherokee Court,26.24,Merrifield,Molly,Molly Grant,Grant,65,65,24-02-2018,1,158,(689) 843-0460,6.56,Batteries,K-Eco AA  NiMH rechargeable batteries (12-pack),4,KEAA12,KEAA12,Virginia,22119
+55617 Straubel Drive,5257,Philadelphia,Eagan,Eagan Bray,Bray,97,97,11-03-2018,1,159,(529) 738-3373,751,Batteries,K-Eco 36-volt Lithium-ion solar backup battery,7,KE36Li,KE36Li,Pennsylvania,19146
+791 Cherokee Court,20.9,Merrifield,Molly,Molly Grant,Grant,65,65,11-03-2018,1,160,(689) 843-0460,1.9,Lightbulbs,K-Eco Energy Bulbs 20W (4-pack),11,KE20W04,KE20W04,Virginia,22119
+710 Old Gate Circle,775.53,Chicago,Amery,Amery Washington,Washington,34,34,12-03-2018,1,161,(191) 476-0002,86.17,Solar panels,K-Eco 180,9,KE180,KE180,Illinois,60641
+92483 Doe Crossing Drive,3003,Lansing,Guy,Guy Ochoa,Ochoa,10,10,14-03-2018,1,162,(720) 242-4596,231,Wind harvester,K-Eco Blast 1200,13,KEBL1200,KEBL1200,Michigan,48956
+6 Carioca Crossing,399.3,Arvada,Derek,Derek Conrad,Conrad,90,90,17-03-2018,1,163,(275) 477-2907,26.62,Landscape lighting,K-Eco Solar Path designer stake lighting w/ rechargeable NiCd battery (12-pack),15,KEPATH12,KEPATH12,Colorado,80005
+229 Golden Leaf Road,102.24,Gadsden,Jerry,Jerry Gill,Gill,27,27,17-03-2018,1,164,(491) 955-1047,6.39,Landscape lighting,K-Eco Solar Path designer stake lighting w/ rechargeable NiCd battery (4-pack),16,KEPATH04,KEPATH04,Alabama,35905
+7316 Dryden Road,33.88,Memphis,Coby,Coby Lucas,Lucas,11,11,18-03-2018,1,165,(177) 816-3420,4.84,Lightbulbs,K-Eco Energy Bulbs 23W  (8-pack),7,KE23W08,KE23W08,Tennessee,38114
+400 Summit Lane,21,Brooklyn,Theodore,Theodore Brock,Brock,95,95,22-03-2018,1,166,(662) 476-0315,1.75,Lightbulbs,K-Eco Energy Bulbs 13W,12,KE13W,KE13W,New York,11210
+3149 Kinsman Court,47.7,Winston Salem,Yoko,Yoko Travis,Travis,81,81,23-03-2018,1,167,(818) 864-3843,2.65,Batteries,K-Eco  AAA NiMH rechargeable batteries  (6-pack),18,KEAAA06,KEAAA06,North Carolina,27116
+24812 Cordelia Trail,1967.4,Corpus Christi,Wesley,Wesley Rush,Rush,67,67,23-03-2018,1,168,(722) 576-0563,131.16,Wind harvester,K-Eco Blast 600,15,KEBL600,KEBL600,Texas,78475
+92 Northfield Terrace,479.16,Louisville,Rhonda,Rhonda Wilder,Wilder,23,23,27-03-2018,1,169,(653) 854-3876,26.62,Landscape lighting,K-Eco Solar Path designer stake lighting w/ rechargeable NiCd battery (12-pack),18,KEPATH12,KEPATH12,Kentucky,40287
+556 Lakewood Park,23.52,Bismarck,Cally,Cally Reynolds,Reynolds,1,1,03-04-2018,1,170,(901) 166-8355,1.47,Lightbulbs,K-Eco Energy Bulbs 9W,16,KE9W,KE9W,North Dakota,58505
+6 Granby Drive,46815,Topeka,Clementine,Clementine Oliver,Oliver,30,30,04-04-2018,1,171,(603) 332-7827,3121,Batteries,K-Eco 18-volt Lithium-ion solar backup battery,15,KE18Li,KE18Li,Kansas,66606
+3849 Northport Parkway,20.88,Appleton,Ronan,Ronan Mendez,Mendez,93,93,06-04-2018,1,172,(302) 847-0643,3.48,Solar panels,K-Eco phone charger,6,KE001,KE001,Wisconsin,54915
+5733 Walton Center,74.3,Jamaica,Astra,Astra Edwards,Edwards,54,54,09-04-2018,1,173,(177) 600-1729,7.43,Lightbulbs,K-Eco Energy Bulbs 20W  (8-pack),10,KE20W08,KE20W08,New York,11470
+92 Northfield Terrace,38.6,Louisville,Rhonda,Rhonda Wilder,Wilder,23,23,10-04-2018,1,174,(653) 854-3876,3.86,Batteries,K-Eco AA  NiMH rechargeable batteries (6-pack),10,KEAA06,KEAA06,Kentucky,40287
+6502 Montana Junction,4067.5,New Orleans,Arden,Arden Bennett,Bennett,28,28,14-04-2018,1,175,(959) 194-1875,813.5,Batteries,K-Eco 12-volt Lithium-ion solar backup battery,5,KE12Li,KE12Li,Louisiana,70174
+3627 Pine View Circle,5108,Cleveland,Debra,Debra Finley,Finley,59,59,24-04-2018,1,176,(542) 954-1230,638.5,Grid Tie Inverters,K-Invert 2K,8,KI2K,KI2K,Ohio,44118
+62597 Lighthouse Bay Drive,1.47,Port Charlotte,Eric,Eric Donaldson,Donaldson,74,74,28-04-2018,1,177,(714) 520-4254,1.47,Lightbulbs,K-Eco Energy Bulbs 9W,1,KE9W,KE9W,Florida,33954
+2 Nevada Junction,52.87,Pittsburgh,Zephr,Zephr Mcgee,Mcgee,44,44,29-04-2018,1,178,(708) 764-4578,3.11,Batteries,K-Eco  AAA NiMH rechargeable batteries (12-pack),17,KEAAA12,KEAAA12,Pennsylvania,15235
+602 Sommers Parkway,37.15,Norfolk,Brock,Brock Case,Case,94,94,02-05-2018,1,179,(544) 534-1984,7.43,Lightbulbs,K-Eco Energy Bulbs 20W  (8-pack),5,KE20W08,KE20W08,Virginia,23520
+7746 Mitchell Point,5.96,New Haven,Merrill,Merrill Freeman,Freeman,12,12,02-05-2018,1,180,(838) 734-1768,5.96,Lightbulbs,K-Eco Energy Bulbs 23W (4-pack),1,KE23W04,KE23W04,Connecticut,06510
+3849 Northport Parkway,107.28,Appleton,Ronan,Ronan Mendez,Mendez,93,93,03-05-2018,1,181,(302) 847-0643,5.96,Lightbulbs,K-Eco Energy Bulbs 23W (4-pack),18,KE23W04,KE23W04,Wisconsin,54915
+40 Lighthouse Bay Circle,69.48,Saint Petersburg,Benjamin,Benjamin Miranda,Miranda,17,17,04-05-2018,1,182,(992) 329-4925,3.86,Batteries,K-Eco AA  NiMH rechargeable batteries (6-pack),18,KEAA06,KEAA06,Florida,33731
+30 Gulseth Junction,2460,San Francisco,Ayanna,Ayanna Foreman,Foreman,41,41,05-05-2018,1,183,(146) 146-9356,246,Solar panels,K-Eco 200,10,KE200,KE200,California,94154
+556 Lakewood Park,53.24,Bismarck,Cally,Cally Reynolds,Reynolds,1,1,10-05-2018,1,184,(901) 166-8355,4.84,Lightbulbs,K-Eco Energy Bulbs 23W  (8-pack),11,KE23W08,KE23W08,North Dakota,58505
+30 Onsgard Crossing,480,Los Angeles,Serena,Serena Malone,Malone,96,96,11-05-2018,1,185,(137) 440-1643,30,Wind harvester,K-Eco Breeze Mini,16,KEBR5,KEBR5,California,90040
+52 Sachtjen Avenue,14063,Tampa,Calvin,Calvin Henry,Henry,46,46,11-05-2018,1,186,(327) 821-0113,2009,Grid Tie Inverters,K-Invert 7K,7,KI7K,KI7K,Florida,33661
+1876 Petterle Court,24755,Brea,Hedy,Hedy Vang,Vang,86,86,12-05-2018,1,187,(383) 134-3234,4951,Grid Tie Inverters,K-Invert 9K,5,KI9K,KI9K,California,92822
+2 Farragut Crossing,216.27,Anchorage,Sade,Sade Santiago,Santiago,14,14,14-05-2018,1,188,(497) 492-4618,72.09,Solar panels,K-Eco 325,3,KE325,KE325,Alaska,99512
+1 Springview Circle,2.26,Helena,Kenneth,Kenneth Potts,Potts,57,57,14-05-2018,1,189,(976) 544-1168,2.26,Landscape lighting,K-Eco Solar Path designer stake lighting w/ rechargeable NiCd battery,1,KEPATH01,KEPATH01,Montana,59623
+609 Everett Avenue,5108,Des Moines,Francesca,Francesca Hodges,Hodges,32,32,14-05-2018,1,190,(324) 686-7614,638.5,Grid Tie Inverters,K-Invert 2K,8,KI2K,KI2K,Iowa,50330
+99 Sage Street,925.43,Reno,Nolan,Nolan Slater,Slater,5,5,19-05-2018,1,191,(540) 487-5928,84.13,Solar panels,K-Eco 450,11,KE450,KE450,Nevada,89505
+91955 Mosinee Parkway,54461,Indianapolis,Tyrone,Tyrone Powell,Powell,24,24,19-05-2018,1,192,(113) 724-9255,4951,Grid Tie Inverters,K-Invert 9K,11,KI9K,KI9K,Indiana,46278
+88 Burning Wood Junction,131.16,Anaheim,Adara,Adara Langley,Langley,26,26,20-05-2018,1,193,(696) 810-8990,131.16,Wind harvester,K-Eco Blast 600,1,KEBL600,KEBL600,California,92812
+62 Warner Place,2703.51,Washington,Raja,Raja Wells,Wells,25,25,22-05-2018,1,194,(244) 178-1821,901.17,Solar panels,K-Eco 625,3,KE625,KE625,District of Columbia,20525
+40 Lighthouse Bay Circle,5772,Saint Petersburg,Benjamin,Benjamin Miranda,Miranda,17,17,29-05-2018,1,195,(992) 329-4925,481,Wind harvester,K-Eco Blast 800,12,KEBL800,KEBL800,Florida,33731
+2 Rockefeller Avenue,9012,Waco,Hunter,Hunter Newton,Newton,3,3,02-06-2018,1,196,(831) 996-1240,751,Batteries,K-Eco 36-volt Lithium-ion solar backup battery,12,KE36Li,KE36Li,Texas,76796
+602 Sommers Parkway,901.17,Norfolk,Brock,Brock Case,Case,94,94,05-06-2018,1,197,(544) 534-1984,901.17,Solar panels,K-Eco 625,1,KE625,KE625,Virginia,23520
+5204 Beilfuss Place,107262,Columbus,Shellie,Shellie Velez,Velez,22,22,05-06-2018,1,198,(197) 282-8671,5959,Grid Tie Inverters,K-Invert 13K,18,KI13K,KI13K,Ohio,43204
+68316 Emmet Trail,792,San Diego,Jael,Jael Rice,Rice,42,42,09-06-2018,1,199,(394) 444-6027,66,Solar panels,"K-Eco 250x (same power, smaller footprint)",12,KE250X,KE250X,California,92153
+561 Basil Court,71.52,Greensboro,Blaine,Blaine Ashley,Ashley,49,49,12-06-2018,1,200,(261) 759-5806,5.96,Lightbulbs,K-Eco Energy Bulbs 23W (4-pack),12,KE23W04,KE23W04,North Carolina,27404
+874 Leroy Hill,1430.21,Santa Rosa,Oleg,Oleg Merritt,Merritt,51,51,13-06-2018,1,201,(513) 912-4721,84.13,Solar panels,K-Eco 450,17,KE450,KE450,California,95405
+40 Lighthouse Bay Circle,20.88,Saint Petersburg,Benjamin,Benjamin Miranda,Miranda,17,17,16-06-2018,1,202,(992) 329-4925,3.48,Solar panels,K-Eco phone charger,6,KE001,KE001,Florida,33731
+839 Pepper Wood Street,1617,El Paso,Leslie,Leslie Pace,Pace,79,79,17-06-2018,1,203,(623) 686-1821,231,Wind harvester,K-Eco Blast 1200,7,KEBL1200,KEBL1200,Texas,88563
+181 Packers Way,22.78,Boston,Rae,Rae Hawkins,Hawkins,13,13,17-06-2018,1,204,(484) 158-4493,1.34,Lightbulbs,K-Eco Energy Bulbs 20W,17,KE20W,KE20W,Massachusetts,02216
+289 Porter Crossing,4888,Silver Spring,Lunea,Lunea Rios,Rios,36,36,23-06-2018,1,205,(311) 982-5690,376,Solar panels,K-Eco 700,13,KE700,KE700,Maryland,20918
+7189 Pankratz Point,45.92,Dayton,Jaime,Jaime Craig,Craig,66,66,23-06-2018,1,206,(375) 915-2089,6.56,Batteries,K-Eco AA  NiMH rechargeable batteries (12-pack),7,KEAA12,KEAA12,Ohio,45454
+7746 Mitchell Point,354,New Haven,Merrill,Merrill Freeman,Freeman,12,12,25-06-2018,1,207,(838) 734-1768,88.5,Solar panels,K-Eco 250,4,KE250,KE250,Connecticut,06510
+6755 Burrows Center,30135,Columbus,Rose,Rose Holcomb,Holcomb,40,40,25-06-2018,1,208,(129) 823-5800,2009,Grid Tie Inverters,K-Invert 7K,15,KI7K,KI7K,Georgia,31914
+91955 Mosinee Parkway,20.88,Indianapolis,Tyrone,Tyrone Powell,Powell,24,24,01-07-2018,1,209,(113) 724-9255,3.48,Solar panels,K-Eco phone charger,6,KE001,KE001,Indiana,46278
+68316 Emmet Trail,87.12,San Diego,Jael,Jael Rice,Rice,42,42,06-07-2018,1,210,(394) 444-6027,4.84,Lightbulbs,K-Eco Energy Bulbs 23W  (8-pack),18,KE23W08,KE23W08,California,92153
+289 Porter Crossing,3.14,Silver Spring,Lunea,Lunea Rios,Rios,36,36,11-07-2018,1,211,(311) 982-5690,3.14,Lightbulbs,K-Eco Energy Bulbs 9W  (8-pack),1,KE9W08,KE9W08,Maryland,20918
+4276 Hallows Terrace,1057.2,San Antonio,Mollie,Mollie Meyers,Meyers,50,50,14-07-2018,1,212,(309) 329-9140,70.48,Wind harvester,K-Eco Blast 200,15,KEBL200,KEBL200,Texas,78260
+282 Acker Terrace,11.3,Winston Salem,Cailin,Cailin Alford,Alford,88,88,15-07-2018,1,213,(368) 400-8301,2.26,Landscape lighting,K-Eco Solar Path designer stake lighting w/ rechargeable NiCd battery,5,KEPATH01,KEPATH01,North Carolina,27157
+8 Delaware Hill,418.5,Garden Grove,Nicole,Nicole Mcconnell,Mcconnell,98,98,16-07-2018,1,214,(892) 616-0264,69.75,Solar panels,K-Eco 275,6,KE275,KE275,California,92844
+710 Old Gate Circle,15.18,Chicago,Amery,Amery Washington,Washington,34,34,17-07-2018,1,215,(191) 476-0002,1.38,Lightbulbs,K-Eco Energy Bulbs 23W,11,KE23W,KE23W,Illinois,60641
+92483 Doe Crossing Drive,775.53,Lansing,Guy,Guy Ochoa,Ochoa,10,10,18-07-2018,1,216,(720) 242-4596,86.17,Solar panels,K-Eco 180,9,KE180,KE180,Michigan,48956
+6502 Montana Junction,3190.72,New Orleans,Arden,Arden Bennett,Bennett,28,28,23-07-2018,1,217,(959) 194-1875,245.44,Wind harvester,K-Eco Blast 400,13,KEBL400,KEBL400,Louisiana,70174
+22 Superior Way,103.7,Boston,Graham,Graham Frederick,Frederick,77,77,26-07-2018,1,218,(707) 474-5854,6.1,Landscape lighting,K-Eco Solar Path designer stake lighting w/ rechargeable NiCd battery (8-pack),17,KEPATH08,KEPATH08,Massachusetts,02203
+6502 Montana Junction,5772,New Orleans,Arden,Arden Bennett,Bennett,28,28,28-07-2018,1,219,(959) 194-1875,481,Wind harvester,K-Eco Blast 800,12,KEBL800,KEBL800,Louisiana,70174
+62597 Lighthouse Bay Drive,1292.55,Port Charlotte,Eric,Eric Donaldson,Donaldson,74,74,29-07-2018,1,220,(714) 520-4254,86.17,Solar panels,K-Eco 180,15,KE180,KE180,Florida,33954
+609 Everett Avenue,3190.72,Des Moines,Francesca,Francesca Hodges,Hodges,32,32,30-07-2018,1,221,(324) 686-7614,245.44,Wind harvester,K-Eco Blast 400,13,KEBL400,KEBL400,Iowa,50330
+6 Carioca Crossing,5.3,Arvada,Derek,Derek Conrad,Conrad,90,90,31-07-2018,1,222,(275) 477-2907,2.65,Batteries,K-Eco  AAA NiMH rechargeable batteries  (6-pack),2,KEAAA06,KEAAA06,Colorado,80005
+710 Old Gate Circle,30,Chicago,Amery,Amery Washington,Washington,34,34,31-07-2018,1,223,(191) 476-0002,3,Lightbulbs,K-Eco Energy Bulbs 13W  (8-pack),10,KE13W08,KE13W08,Illinois,60641
+25 Green Plaza,17.94,Davenport,Quail,Quail Vance,Vance,39,39,01-08-2018,1,224,(229) 484-5107,1.38,Lightbulbs,K-Eco Energy Bulbs 23W,13,KE23W,KE23W,Iowa,52804
+89318 Heffernan Crossing,61.76,Santa Barbara,Wynter,Wynter Roberts,Roberts,37,37,02-08-2018,1,225,(721) 262-6519,3.86,Batteries,K-Eco AA  NiMH rechargeable batteries (6-pack),16,KEAA06,KEAA06,California,93150
+8 Gerald Point,9.96,Orlando,Malik,Malik Faulkner,Faulkner,16,16,03-08-2018,1,226,(186) 520-2519,1.66,Lightbulbs,K-Eco Energy Bulbs 13W (4-pack),6,KE13W04,KE13W04,Florida,32858
+88 Burning Wood Junction,24.36,Anaheim,Adara,Adara Langley,Langley,26,26,05-08-2018,1,227,(696) 810-8990,3.48,Solar panels,K-Eco phone charger,7,KE001,KE001,California,92812
+88 Burning Wood Junction,282337,Anaheim,Adara,Adara Langley,Langley,26,26,06-08-2018,1,228,(696) 810-8990,25667,Grid Tie Inverters,K-Invert 20K,11,KI20K,KI20K,California,92812
+419 Tennyson Court,156.4,San Luis Obispo,Melyssa,Melyssa Gates,Gates,38,38,13-08-2018,1,229,(263) 976-2589,19.55,Solar panels,K-Eco Mini,8,KE5,KE5,California,93407
+6 Granby Drive,23836,Topeka,Clementine,Clementine Oliver,Oliver,30,30,17-08-2018,1,230,(603) 332-7827,5959,Grid Tie Inverters,K-Invert 13K,4,KI13K,KI13K,Kansas,66606
+9776 Beilfuss Parkway,15.44,Cleveland,Karly,Karly Hardin,Hardin,64,64,21-08-2018,1,231,(106) 281-7513,3.86,Batteries,K-Eco AA  NiMH rechargeable batteries (6-pack),4,KEAA06,KEAA06,Ohio,44118
+7316 Dryden Road,44484,Memphis,Coby,Coby Lucas,Lucas,11,11,22-08-2018,1,232,(177) 816-3420,4044,Batteries,K-Eco 48-volt Lithium-ion solar backup battery,11,KE48Li,KE48Li,Tennessee,38114
+95567 Browning Crossing,13.3,Vero Beach,Hadley,Hadley Sosa,Sosa,63,63,25-08-2018,1,233,(222) 150-9436,1.9,Lightbulbs,K-Eco Energy Bulbs 20W (4-pack),7,KE20W04,KE20W04,Florida,32964
+8 Gerald Point,510,Orlando,Malik,Malik Faulkner,Faulkner,16,16,29-08-2018,1,234,(186) 520-2519,30,Wind harvester,K-Eco Breeze Mini,17,KEBR5,KEBR5,Florida,32858
+25 Green Plaza,293.25,Davenport,Quail,Quail Vance,Vance,39,39,30-08-2018,1,235,(229) 484-5107,19.55,Solar panels,K-Eco Mini,15,KE5,KE5,Iowa,52804
+602 Sommers Parkway,17.42,Norfolk,Brock,Brock Case,Case,94,94,03-09-2018,1,236,(544) 534-1984,1.34,Lightbulbs,K-Eco Energy Bulbs 20W,13,KE20W,KE20W,Virginia,23520
+8 Delaware Hill,111.45,Garden Grove,Nicole,Nicole Mcconnell,Mcconnell,98,98,04-09-2018,1,237,(892) 616-0264,7.43,Lightbulbs,K-Eco Energy Bulbs 20W  (8-pack),15,KE20W08,KE20W08,California,92844
+62 Warner Place,8564.8,Washington,Raja,Raja Wells,Wells,25,25,12-09-2018,1,238,(244) 178-1821,535.3,Solar panels,"K-Eco 325x (same power, smaller footprint)",16,KE325X,KE325X,District of Columbia,20525
+62597 Lighthouse Bay Drive,59.6,Port Charlotte,Eric,Eric Donaldson,Donaldson,74,74,13-09-2018,1,239,(714) 520-4254,5.96,Lightbulbs,K-Eco Energy Bulbs 23W (4-pack),10,KE23W04,KE23W04,Florida,33954
+3627 Pine View Circle,245.44,Cleveland,Debra,Debra Finley,Finley,59,59,17-09-2018,1,240,(542) 954-1230,245.44,Wind harvester,K-Eco Blast 400,1,KEBL400,KEBL400,Ohio,44118
+3409 Oriole Point,9.66,Peoria,Iliana,Iliana Hester,Hester,31,31,18-09-2018,1,241,(716) 866-7734,1.38,Lightbulbs,K-Eco Energy Bulbs 23W,7,KE23W,KE23W,Illinois,61629
+2 Hovde Plaza,4182,Saint Paul,Indira,Indira Odom,Odom,75,75,26-09-2018,1,242,(714) 947-5101,246,Solar panels,K-Eco 200,17,KE200,KE200,Minnesota,55108
+62 Karstens Junction,41.72,Tulsa,Joshua,Joshua Delaney,Delaney,47,47,28-09-2018,1,243,(838) 282-2276,5.96,Lightbulbs,K-Eco Energy Bulbs 23W (4-pack),7,KE23W04,KE23W04,Oklahoma,74141
+87 Brentwood Park,45.05,Dallas,Brooke,Brooke Perkins,Perkins,4,4,02-10-2018,1,244,(340) 732-9367,2.65,Batteries,K-Eco  AAA NiMH rechargeable batteries  (6-pack),17,KEAAA06,KEAAA06,Texas,75358
+561 Basil Court,245.44,Greensboro,Blaine,Blaine Ashley,Ashley,49,49,03-10-2018,1,245,(261) 759-5806,245.44,Wind harvester,K-Eco Blast 400,1,KEBL400,KEBL400,North Carolina,27404
+2 Farragut Crossing,47.7,Anchorage,Sade,Sade Santiago,Santiago,14,14,18-10-2018,1,246,(497) 492-4618,2.65,Batteries,K-Eco  AAA NiMH rechargeable batteries  (6-pack),18,KEAAA06,KEAAA06,Alaska,99512
+32174 Ridge Oak Plaza,9020,San Francisco,Mona,Mona Matthews,Matthews,83,83,20-10-2018,1,247,(723) 808-1834,820,Grid Tie Inverters,K-Invert 4K,11,KI4K,KI4K,California,94177
+5733 Walton Center,1239,Jamaica,Astra,Astra Edwards,Edwards,54,54,21-10-2018,1,248,(177) 600-1729,88.5,Solar panels,K-Eco 300,14,KE300,KE300,New York,11470
+4829 Badeau Parkway,972.18,Chattanooga,Sydney,Sydney Bartlett,Bartlett,2,2,26-10-2018,1,249,(982) 231-7357,108.02,Wind harvester,K-Eco Blast 100,9,KEBL100,KEBL100,Tennessee,37405
+6502 Montana Junction,4067.5,New Orleans,Arden,Arden Bennett,Bennett,28,28,28-10-2018,1,250,(959) 194-1875,813.5,Batteries,K-Eco 12-volt Lithium-ion solar backup battery,5,KE12Li,KE12Li,Louisiana,70174
+68316 Emmet Trail,40573,San Diego,Jael,Jael Rice,Rice,42,42,28-10-2018,1,251,(394) 444-6027,3121,Batteries,K-Eco 18-volt Lithium-ion solar backup battery,13,KE18Li,KE18Li,California,92153
+2 Nevada Junction,756.14,Pittsburgh,Zephr,Zephr Mcgee,Mcgee,44,44,28-10-2018,1,252,(708) 764-4578,108.02,Wind harvester,K-Eco Blast 100,7,KEBL100,KEBL100,Pennsylvania,15235
+7189 Pankratz Point,42,Dayton,Jaime,Jaime Craig,Craig,66,66,01-11-2018,1,253,(375) 915-2089,3,Lightbulbs,K-Eco Energy Bulbs 13W  (8-pack),14,KE13W08,KE13W08,Ohio,45454
+0864 Bluestem Center,44.58,Sacramento,Barrett,Barrett Howell,Howell,35,35,02-11-2018,1,254,(538) 115-5665,7.43,Lightbulbs,K-Eco Energy Bulbs 20W  (8-pack),6,KE20W08,KE20W08,California,95823
+4 Manufacturers Pass,118.08,Greensboro,Kyla,Kyla Hebert,Hebert,61,61,03-11-2018,1,255,(715) 654-8147,6.56,Batteries,K-Eco AA  NiMH rechargeable batteries (12-pack),18,KEAA12,KEAA12,North Carolina,27499
+7316 Dryden Road,26.62,Memphis,Coby,Coby Lucas,Lucas,11,11,06-11-2018,1,256,(177) 816-3420,26.62,Landscape lighting,K-Eco Solar Path designer stake lighting w/ rechargeable NiCd battery (12-pack),1,KEPATH12,KEPATH12,Tennessee,38114
+22 Superior Way,89.46,Boston,Graham,Graham Frederick,Frederick,77,77,08-11-2018,1,257,(707) 474-5854,6.39,Landscape lighting,K-Eco Solar Path designer stake lighting w/ rechargeable NiCd battery (4-pack),14,KEPATH04,KEPATH04,Massachusetts,02203
+89318 Heffernan Crossing,15.44,Santa Barbara,Wynter,Wynter Roberts,Roberts,37,37,11-11-2018,1,258,(721) 262-6519,3.86,Batteries,K-Eco AA  NiMH rechargeable batteries (6-pack),4,KEAA06,KEAA06,California,93150
+6502 Montana Junction,50.24,New Orleans,Arden,Arden Bennett,Bennett,28,28,15-11-2018,1,259,(959) 194-1875,3.14,Lightbulbs,K-Eco Energy Bulbs 9W  (8-pack),16,KE9W08,KE9W08,Louisiana,70174
+99 Sage Street,7494.2,Reno,Nolan,Nolan Slater,Slater,5,5,18-11-2018,1,260,(540) 487-5928,535.3,Solar panels,"K-Eco 325x (same power, smaller footprint)",14,KE325X,KE325X,Nevada,89505
+6625 Lukken Circle,27.12,Brooklyn,Amena,Amena Petersen,Petersen,19,19,18-11-2018,1,261,(383) 554-7219,2.26,Landscape lighting,K-Eco Solar Path designer stake lighting w/ rechargeable NiCd battery,12,KEPATH01,KEPATH01,New York,11205
+823 Glacier Hill Point,1126.08,San Bernardino,Zena,Zena Washington,Washington,73,73,20-11-2018,1,262,(921) 805-5150,140.76,Solar panels,K-Eco 575,8,KE575,KE575,California,92415
+22278 Waubesa Road,89.4,Birmingham,Chastity,Chastity Charles,Charles,78,78,20-11-2018,1,263,(186) 176-2590,5.96,Lightbulbs,K-Eco Energy Bulbs 23W (4-pack),15,KE23W04,KE23W04,Alabama,35225
+102 Fallview Terrace,96.59,Minneapolis,Chester,Chester Best,Best,70,70,25-11-2018,1,264,(608) 587-5791,7.43,Lightbulbs,K-Eco Energy Bulbs 20W  (8-pack),13,KE20W08,KE20W08,Minnesota,55441
+6 Carioca Crossing,240,Arvada,Derek,Derek Conrad,Conrad,90,90,26-11-2018,1,265,(275) 477-2907,30,Wind harvester,K-Eco Breeze Mini,8,KEBR5,KEBR5,Colorado,80005
+289 Porter Crossing,1944.36,Silver Spring,Lunea,Lunea Rios,Rios,36,36,27-11-2018,1,266,(311) 982-5690,108.02,Wind harvester,K-Eco Blast 100,18,KEBL100,KEBL100,Maryland,20918
+6755 Burrows Center,986.72,Columbus,Rose,Rose Holcomb,Holcomb,40,40,27-11-2018,1,267,(129) 823-5800,70.48,Wind harvester,K-Eco Blast 200,14,KEBL200,KEBL200,Georgia,31914
+7189 Pankratz Point,281.52,Dayton,Jaime,Jaime Craig,Craig,66,66,10-12-2018,1,268,(375) 915-2089,140.76,Solar panels,K-Eco 575,2,KE575,KE575,Ohio,45454
+6755 Burrows Center,21.2,Columbus,Rose,Rose Holcomb,Holcomb,40,40,12-12-2018,1,269,(129) 823-5800,2.65,Batteries,K-Eco  AAA NiMH rechargeable batteries  (6-pack),8,KEAAA06,KEAAA06,Georgia,31914
+7271 Ramsey Way,6,Washington,Gray,Gray Gutierrez,Gutierrez,87,87,16-12-2018,1,270,(496) 849-2265,3,Lightbulbs,K-Eco Energy Bulbs 13W  (8-pack),2,KE13W08,KE13W08,District of Columbia,20420
+62 Warner Place,351.9,Washington,Raja,Raja Wells,Wells,25,25,18-12-2018,1,271,(244) 178-1821,19.55,Solar panels,K-Eco Mini,18,KE5,KE5,District of Columbia,20525
+88 Burning Wood Junction,15.55,Anaheim,Adara,Adara Langley,Langley,26,26,27-12-2018,1,272,(696) 810-8990,3.11,Batteries,K-Eco  AAA NiMH rechargeable batteries (12-pack),5,KEAAA12,KEAAA12,California,92812
+4829 Badeau Parkway,5740,Chattanooga,Sydney,Sydney Bartlett,Bartlett,2,2,27-12-2018,1,273,(982) 231-7357,820,Grid Tie Inverters,K-Invert 4K,7,KI4K,KI4K,Tennessee,37405
+795 Troy Terrace,1404.26,Atlanta,Kyle,Kyle Keith,Keith,69,69,29-12-2018,1,274,(578) 125-5684,108.02,Wind harvester,K-Eco Blast 100,13,KEBL100,KEBL100,Georgia,31106
