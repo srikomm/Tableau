@@ -1,7 +1,10 @@
 <?xml version='1.0' encoding='utf-8' ?>
 
-<!-- build 20181.18.0416.1335                               -->
-<workbook original-version='18.1' source-build='2018.1.0 (20181.18.0416.1335)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+<!-- build 20181.18.0706.1237                               -->
+<workbook original-version='18.1' source-build='2018.1.3 (20181.18.0706.1237)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <VizInTooltipHideWorksheet />
+  </document-format-change-manifest>
   <preferences>
     <preference name='ui.encoding.shelf.height' value='24' />
     <preference name='ui.shelf.height' value='26' />
@@ -11,7 +14,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='KinetEco Orders' name='excel-direct.1a57tzm1mqrrk71dnkaef10x49th'>
-            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/Curt/Desktop/Exercise Files/Chapter09/KinetEco Orders.xlsx' interpretationMode='0' password='' server='' validate='no' />
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/SRI HARSHA KOMMANA/Documents/GitHub/Tableau/Chapter09/KinetEco Orders.xlsx' interpretationMode='0' password='' server='' validate='no' />
           </named-connection>
         </named-connections>
         <relation join='inner' type='join'>
@@ -105,7 +108,7 @@
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
-            <collation flag='1' name='LEN_RUS_S2' />
+            <collation flag='1' name='LEN_RIN_S2' />
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
             </attributes>
@@ -120,7 +123,7 @@
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
-            <collation flag='1' name='LEN_RUS_S2' />
+            <collation flag='1' name='LEN_RIN_S2' />
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
             </attributes>
@@ -135,7 +138,7 @@
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
-            <collation flag='1' name='LEN_RUS_S2' />
+            <collation flag='1' name='LEN_RIN_S2' />
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
             </attributes>
@@ -150,7 +153,7 @@
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
-            <collation flag='1' name='LEN_RUS_S2' />
+            <collation flag='1' name='LEN_RIN_S2' />
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
             </attributes>
@@ -165,7 +168,7 @@
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
-            <collation flag='1' name='LEN_RUS_S2' />
+            <collation flag='1' name='LEN_RIN_S2' />
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
             </attributes>
@@ -180,7 +183,7 @@
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
-            <collation flag='1' name='LEN_RUS_S2' />
+            <collation flag='1' name='LEN_RIN_S2' />
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
             </attributes>
@@ -195,7 +198,7 @@
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
-            <collation flag='1' name='LEN_RUS_S2' />
+            <collation flag='1' name='LEN_RIN_S2' />
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
             </attributes>
@@ -280,7 +283,7 @@
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
-            <collation flag='1' name='LEN_RUS_S2' />
+            <collation flag='1' name='LEN_RIN_S2' />
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
             </attributes>
@@ -323,7 +326,7 @@
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
-            <collation flag='1' name='LEN_RUS_S2' />
+            <collation flag='1' name='LEN_RIN_S2' />
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
             </attributes>
@@ -338,7 +341,7 @@
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
-            <collation flag='1' name='LEN_RUS_S2' />
+            <collation flag='1' name='LEN_RIN_S2' />
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
             </attributes>
@@ -353,7 +356,7 @@
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
-            <collation flag='1' name='LEN_RUS_S2' />
+            <collation flag='1' name='LEN_RIN_S2' />
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
             </attributes>
@@ -407,7 +410,12 @@
       <column caption='Product Name' datatype='string' name='[ProductName]' role='dimension' type='nominal' />
       <column datatype='string' name='[State]' role='dimension' semantic-role='[State].[Name]' type='nominal' />
       <column caption='ZIP Code' datatype='integer' default-format='*00000' name='[ZIPCode]' role='dimension' semantic-role='[ZipCode].[Name]' type='ordinal' />
-      <layout dim-ordering='alphabetic' dim-percentage='0.867089' measure-ordering='alphabetic' measure-percentage='0.132911' show-structure='true' />
+      <group caption='Tooltip (Product Category)' hidden='true' name='[Tooltip (Product Category)]' name-style='unqualified' user:auto-column='sheet_link' user:ui-vit-column='true'>
+        <groupfilter function='crossjoin'>
+          <groupfilter function='level-members' level='[ProductCategory]' />
+        </groupfilter>
+      </group>
+      <layout dim-ordering='alphabetic' dim-percentage='0.736515' measure-ordering='alphabetic' measure-percentage='0.263485' show-structure='true' />
       <semantic-values>
         <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
       </semantic-values>
@@ -432,6 +440,12 @@
             <column-instance column='[ProductName]' derivation='None' name='[none:ProductName:nk]' pivot='key' type='nominal' />
             <column-instance column='[Calculation_186899449523687424]' derivation='Sum' name='[sum:Calculation_186899449523687424:qk]' pivot='key' type='quantitative' />
           </datasource-dependencies>
+          <filter class='categorical' column='[federated.1hcdpc613iti5d1ftejvs059diri].[Tooltip (Product Category)]'>
+            <groupfilter function='member' level='[ProductCategory]' member='&quot;Grid Tie Inverters&quot;' user:ui-action-filter='[Action - ByProduct]' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.1hcdpc613iti5d1ftejvs059diri].[Tooltip (Product Category)]</column>
+          </slices>
           <aggregation value='true' />
         </view>
         <style />
@@ -485,6 +499,12 @@
               <color column='[federated.1hcdpc613iti5d1ftejvs059diri].[sum:Calculation_186899449523687424:qk]' />
               <text column='[federated.1hcdpc613iti5d1ftejvs059diri].[none:ProductCategory:nk]' />
             </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run bold='true'>&lt;Sheet name=&quot;ByProduct&quot; maxwidth=&quot;300&quot; maxheight=&quot;300&quot; filter=&quot;&lt;All Fields&gt;&quot;&gt;</run>
+                <run>Æ&#10;</run>
+              </formatted-text>
+            </customized-tooltip>
             <style>
               <style-rule element='mark'>
                 <format attr='mark-labels-show' value='true' />
@@ -1054,32 +1074,30 @@
     </thumbnail>
     <thumbnail height='192' name='Treemap' width='192'>
       iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAAA7DAAAOwwHHb6hk
-      AAAFOUlEQVR4nO3a3WtTdxzH8U9O89DWpEmrfbRWTWu1dXYDEb3wQhhMdrGrXQz2R/hn7O/Y
-      3WC37qowhrCxOa2Tss3qtGo7NfYpTZumyTlNzi4Eh1pQGavg5/26yy+cw5dD3pxfkpOI4zgW
-      YCp41wMA7xIBwBoBwBoBwFpyt8W/Fpc0c2txr2cB9tyuAVy/taCvvp7e61mAPccWCNYIANYI
-      ANbeKIDjJ8b05cXT+niy/9/FtrQGCpnnL6eODkgKdO7MB7r0xQV9fv64hnpz6ky8fLa0Th7t
-      eashOzvblQleORHwn+36JfhFnZrsT+jb6RmlUkllC10a7ctro1JXV2Zb20FWF6aGlY1qmr1f
-      0i/Xfldvxyld/vG2jhwZVLpcU/F4UYNtNX0/+0gtJXUg365sT7fOFge0s7Wm+XKkJ6U19fXm
-      VY0CXZga0sxvdxR3ZDXY36ep8X4FGxv67uc/NHrimOLyU80uRxob6tHm6qrGJ4paevBANxYq
-      //8Vw3vl9QFk9mmntqHi+Jg+GevU9KOWis0lXa4l9elwToOHCrpy9U+dmxh55dCBvm6ltgN9
-      dnZEYZzQ4nxJc9Vn7/UM9isqLSg5dEipVqSP0oHyhbR6RyeUiyNdPD2i1Uyfbt+4qV+boaoL
-      j7VveEznj+1XW+aAGjNlHU6UdCW9X8Wc9GiHR5rw9l6/BWqsKiiMqC/V1MpmQ1G4rdm7S3r2
-      eYsVt6V1cvSgujK7b1FazR39/WRFP12/q5Wo9Xy92YxUWttStRFpefGxTn44rsUnZa1VNnTn
-      3kNdu7eqyvKS5pa3VWsGOjU2pHSzroePl/XDzLxq9Zpu3l9WfbOs+XKsM5MH3+R2BrwgsdvT
-      oN9MX3/hf4B0e7uGD2RVrWyqHMZKhKHCRFK5dKydIKPBQkbr61taq4WSpFxnRpu1hjo6Morq
-      oQo9eXWlpcXSuqI4oX3tbWrEgYIwVFsmrXo9VCGfVXWjKqXbNdKb1Xq5onozoa16qCCZ0khv
-      Tk9X1tXd061UK1Sp0lBrJ1QzSOlwf16b6xWtbEV7d+XwXnijAID3FT+DwhoBwBoBwBoBwBoB
-      wBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoB
-      wBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoB
-      wBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoB
-      wBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoB
-      wBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoB
-      wBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoB
-      wBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoB
-      wBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoB
-      wBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoB
-      wBoBwBoBwBoBwBoBwBoBwBoBwBoBwBoBwFoijuP45cWZuQVNX517F/MAe+ofN9cmdTwOY7sA
-      AAAASUVORK5CYII=
+      AAAExUlEQVR4nO3a205cVQDG8W9m9hwZKDgwxYmUmioq0wpE0xrP3nlBmnjjA/gaPohP4Y1c
+      qFFDk8ZDDFRqtUIRahkqoeU0w6FzKtuLNtXoEOSiQ9Lv/7tce+2dlZ35Z/aa2ZEwDEMBpqLH
+      vQDgOBEArBEArBEArAWtBj+dnNHM3HK71wK0XcsArsyW9Nnla+1eC9B2PALBGgHA2v8KIJGI
+      qzOTUDTS+ngs9uAy8XhcXR0pdWWSB84NYgccAI7BoQGke3L64K2i3hw9o0Jn4tH46Wd6H20g
+      hocHlZWU78/ro4tv6N3R0xro71Yu/e8tRqfOD+eOsLxAQ6d6jjAfOJqWm+B/eqHQrUtTszr3
+      8osKohG9/955RbZWtBvGtVGNavyVU8qkQt28dlO3S7c1NZvVzPV59T5dUCbV0MirZ3Uy2dTE
+      N79o5+FLF2dHixrLp7S5tqE7taZ+/WNLz+Y7lC/0qS/Y1xe/V/RhsVtLG6HGinl9demqkv39
+      GuiIanK+rPGXTujnpbKGBvu0srSsyd9WH/d9whPq0G+A7Wao3lRM38/9qVwmqXplQ5//VFIm
+      ndJALquvv53R9NLWf85LJuLq6OrT60M9UpBQNvn3o89+bU8Tk1e0UQ+1F0lq5Pl+7d0P9Npg
+      t2KJQJlkWouzs/pyal7fXb2h6XXpnaE+ReOBsqm0bs3d0PTCXe00Qp3ozh5eMXCAQwNYXFjW
+      yefOaHykoPW9mkqrDz7sK2tl3bpT1tsXzqmQlJoP59/drKhxP1Rle1ebm6v6YX5L9XtV3WuG
+      khpaK9dUruyovh9qrbyr6wtrygVVLS6v6selbdWqNVV3tlUqNyTVFXTmNfZUqMvz62rU6trb
+      qai0VVc0GlGzua/t3ar2H9/9wRMu0upt0I8/meB/AFjgZ1BYIwBYIwBYIwBYIwBYIwBYIwBY
+      IwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBY
+      IwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBY
+      IwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBY
+      IwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBY
+      IwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBY
+      IwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBY
+      IwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBY
+      IwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBY
+      IwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBY
+      IwBYIwBYIwBYIwBYIwBYIwBYIwBYC1oNXigOKp2Mt3stQNv9BZAu3nfcjRjRAAAAAElFTkSu
+      QmCC
     </thumbnail>
   </thumbnails>
 </workbook>
