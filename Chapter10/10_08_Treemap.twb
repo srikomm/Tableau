@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8' ?>
 
-<!-- build 20181.18.0416.1335                               -->
-<workbook original-version='18.1' source-build='2018.1.0 (20181.18.0416.1335)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+<!-- build 20181.18.0706.1237                               -->
+<workbook original-version='18.1' source-build='2018.1.3 (20181.18.0706.1237)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
   <preferences>
     <preference name='ui.encoding.shelf.height' value='24' />
     <preference name='ui.shelf.height' value='26' />
@@ -11,7 +11,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='KinetEco Orders' name='excel-direct.0ei86bn0ejk7391bqqogd132nicv'>
-            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/Curt/Desktop/Exercise Files/Chapter10/KinetEco Orders.xlsx' interpretationMode='0' password='' server='' validate='no' />
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/SRI HARSHA KOMMANA/Documents/GitHub/Tableau/Chapter10/KinetEco Orders.xlsx' interpretationMode='0' password='' server='' validate='no' />
           </named-connection>
         </named-connections>
         <relation join='inner' type='join'>
@@ -105,7 +105,7 @@
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
-            <collation flag='1' name='LEN_RUS_S2' />
+            <collation flag='1' name='LEN_RIN_S2' />
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
             </attributes>
@@ -120,7 +120,7 @@
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
-            <collation flag='1' name='LEN_RUS_S2' />
+            <collation flag='1' name='LEN_RIN_S2' />
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
             </attributes>
@@ -135,7 +135,7 @@
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
-            <collation flag='1' name='LEN_RUS_S2' />
+            <collation flag='1' name='LEN_RIN_S2' />
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
             </attributes>
@@ -150,7 +150,7 @@
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
-            <collation flag='1' name='LEN_RUS_S2' />
+            <collation flag='1' name='LEN_RIN_S2' />
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
             </attributes>
@@ -165,7 +165,7 @@
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
-            <collation flag='1' name='LEN_RUS_S2' />
+            <collation flag='1' name='LEN_RIN_S2' />
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
             </attributes>
@@ -180,7 +180,7 @@
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
-            <collation flag='1' name='LEN_RUS_S2' />
+            <collation flag='1' name='LEN_RIN_S2' />
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
             </attributes>
@@ -195,7 +195,7 @@
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
-            <collation flag='1' name='LEN_RUS_S2' />
+            <collation flag='1' name='LEN_RIN_S2' />
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
             </attributes>
@@ -280,7 +280,7 @@
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
-            <collation flag='1' name='LEN_RUS_S2' />
+            <collation flag='1' name='LEN_RIN_S2' />
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
             </attributes>
@@ -323,7 +323,7 @@
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
-            <collation flag='1' name='LEN_RUS_S2' />
+            <collation flag='1' name='LEN_RIN_S2' />
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
             </attributes>
@@ -338,7 +338,7 @@
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
-            <collation flag='1' name='LEN_RUS_S2' />
+            <collation flag='1' name='LEN_RIN_S2' />
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
             </attributes>
@@ -353,7 +353,7 @@
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
             <contains-null>true</contains-null>
-            <collation flag='1' name='LEN_RUS_S2' />
+            <collation flag='1' name='LEN_RIN_S2' />
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
             </attributes>
@@ -407,7 +407,7 @@
       <column caption='Product Name' datatype='string' name='[ProductName]' role='dimension' type='nominal' />
       <column datatype='string' name='[State]' role='dimension' semantic-role='[State].[Name]' type='nominal' />
       <column caption='ZIP Code' datatype='integer' default-format='*00000' name='[ZIPCode]' role='dimension' semantic-role='[ZipCode].[Name]' type='ordinal' />
-      <layout dim-ordering='alphabetic' dim-percentage='0.601266' measure-ordering='alphabetic' measure-percentage='0.398734' show-structure='true' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.607884' measure-ordering='alphabetic' measure-percentage='0.392116' show-structure='true' />
       <semantic-values>
         <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
       </semantic-values>
@@ -417,16 +417,50 @@
     <worksheet name='Sheet 1'>
       <table>
         <view>
-          <datasources />
+          <datasources>
+            <datasource caption='Customers+ (KinetEco Orders)' name='federated.1xm7t6q0acd4qs11mdyrb17cd0u3' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1xm7t6q0acd4qs11mdyrb17cd0u3'>
+            <column caption='TotalPrice' datatype='real' name='[Calculation_468374425439952896]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='[Quantity]*[Price]' />
+            </column>
+            <column datatype='real' name='[Price]' role='measure' type='quantitative' />
+            <column caption='Product Category' datatype='string' name='[ProductCategory]' role='dimension' type='nominal' />
+            <column datatype='integer' name='[Quantity]' role='measure' type='quantitative' />
+            <column-instance column='[ProductCategory]' derivation='None' name='[none:ProductCategory:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Calculation_468374425439952896]' derivation='Sum' name='[sum:Calculation_468374425439952896:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
           <aggregation value='true' />
         </view>
-        <style />
+        <style>
+          <style-rule element='mark'>
+            <encoding attr='color' field='[federated.1xm7t6q0acd4qs11mdyrb17cd0u3].[sum:Calculation_468374425439952896:qk]' palette='red_blue_diverging_10_0' type='interpolated' />
+          </style-rule>
+        </style>
         <panes>
           <pane selection-relaxation-option='selection-relaxation-allow'>
             <view>
-              <breakdown value='auto' />
+              <breakdown value='on' />
             </view>
             <mark class='Automatic' />
+            <encodings>
+              <size column='[federated.1xm7t6q0acd4qs11mdyrb17cd0u3].[sum:Calculation_468374425439952896:qk]' />
+              <color column='[federated.1xm7t6q0acd4qs11mdyrb17cd0u3].[sum:Calculation_468374425439952896:qk]' />
+              <text column='[federated.1xm7t6q0acd4qs11mdyrb17cd0u3].[none:ProductCategory:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-line-first' value='true' />
+                <format attr='mark-labels-line-last' value='true' />
+                <format attr='mark-labels-range-min' value='true' />
+                <format attr='mark-labels-range-max' value='true' />
+                <format attr='mark-labels-mode' value='all' />
+                <format attr='mark-labels-range-scope' value='pane' />
+                <format attr='mark-labels-range-field' value='' />
+              </style-rule>
+            </style>
           </pane>
         </panes>
         <rows />
@@ -455,23 +489,48 @@
             <card type='title' />
           </strip>
         </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.1xm7t6q0acd4qs11mdyrb17cd0u3].[sum:Calculation_468374425439952896:qk]' type='color' />
+          </strip>
+        </edge>
       </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1xm7t6q0acd4qs11mdyrb17cd0u3].[none:ProductCategory:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
     </window>
   </windows>
   <thumbnails>
     <thumbnail height='192' name='Sheet 1' width='192'>
       iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAAA7DAAAOwwHHb6hk
-      AAACFUlEQVR4nO3TMQEAIAzAMMC/5yFjRxMFfXpnZg5Eve0A2GQA0gxAmgFIMwBpBiDNAKQZ
-      gDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFI
-      MwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQD
-      kGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBp
-      BiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA
-      0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDN
-      AKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxA
-      mgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZ
-      gDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFI
-      MwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKR9Y+0F
-      fBUOM1sAAAAASUVORK5CYII=
+      AAAExklEQVR4nO3a3W9TZQDH8V/fX9aNyrpuw8GIiItlwggRjG/RKy8kxBv/AP8P/xD/Cm/c
+      hS8hzBA1GhkMBRkrG+7FuWy0W7uNtWt7vJCg0eLcBV3C7/u5fM5zmicn+eac5/SEgiAIBJgK
+      H/QCgINEALBGALBGALAWbTf46ZUp3bi72Om1AB3XNoDJ6QV9dvXnTq8F6DgegWCNAGDtfwUQ
+      j8fUnY4rHGp/PBL582disZh6upLqTif+Y+4TDgAHYM8AUtleffBmQW+MvaAj3bHH48NDuccb
+      iEJhWBlJ+YG8Prr0ut45M6yh/qx6U//cYmR0vtC7j+VFdfLoc/uYD+xP203w3408n9XX16Y1
+      +sqIIuGw3nv3VYXKy9oK4irvhPT+uWNKJwLN/TSnpYUlXbvTpeu3i+obGFQ6uasz504pn2xo
+      /PItbT766GJ0rKCxvqTKD0parTV06/6Gjue71H8kp1ykpS+KVX04ekjzpUBnC3l9NXFTycEB
+      HU2HdKVY0cWXezT1a0Ujx3P6bX5JE7+sPO3rhGfUnneAaqOlXDKi7+4uqzedUL1S1uc3FtWV
+      TmjocEaXv5nS5PzGv86LJ+JK9/TptZeyUiSuTPyvR59m7aHGJ66rVA+0HUro9IsD2m5GdeFY
+      VpF4VKlkSrN3pvXljzP69uaMJkvS2ydzCsWiyiSTuj89o8nZVVXrgQ5lu/auGHiCPQOYvbek
+      /hMndPH0oErbNS2urEuSltcqml+t6K0LoxpMBmo8mr9arqrRDFStbqpcWtH3xQ3Vd2p62Awk
+      NbS2XlOlsql6K9DaxpZu33ug3tiO5hZ/1w8LVdVqddU2K1rY2JW0q2imT2cPt3S1WNJuva7t
+      alUL63WFwyE1mi1tbu2o9fSuD55xoXZfg378yTj/A8ACr0FhjQBgjQBgjQBgjQBgjQBgjQBg
+      jQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBg
+      jQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBg
+      jQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBg
+      jQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBg
+      jQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBg
+      jQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBg
+      jQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBg
+      jQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBg
+      jQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBgjQBg
+      jQBgjQBgjQBgjQBgjQBgjQBgjQBgLdpu8PypYaUSsU6vBei4PwCA1N99PlKuuAAAAABJRU5E
+      rkJggg==
     </thumbnail>
   </thumbnails>
 </workbook>
